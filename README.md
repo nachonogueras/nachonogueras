@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nachonogueras
+- 👀 I am interested in a job in which I can apply the knowledge I have, and also be able to learn much more by being in contact with colleagues
+- 🌱 I’m currently learning Development Web Full Stack (with SoyHenry)
+- 📫 How to reach me noguerasnacho@gmail.com
