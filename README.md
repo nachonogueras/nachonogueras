@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nachonogueras
-- 🌱 I’m currently learning Development Web Full Stack (with SoyHenry)
+- 🌱 I’m currently learning Development Web Full Stack 
 - 📫 How to reach me noguerasnacho@gmail.com
